@@ -6,4 +6,4 @@
 
 システム名：パチスロ機種情報管理システム
 
-URL　　　 ：
+URL　　　 ：http://aso2201362.mond.jp/final/src/G1-1.php
